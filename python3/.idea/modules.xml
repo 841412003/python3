@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../8.21/.idea/8.21.iml" filepath="$PROJECT_DIR$/../8.21/.idea/8.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../8.27/.idea/8.27.iml" filepath="$PROJECT_DIR$/../8.27/.idea/8.27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../9.10/.idea/9.10.iml" filepath="$PROJECT_DIR$/../9.10/.idea/9.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alien_invasion/.idea/alien_invasion.iml" filepath="$PROJECT_DIR$/../alien_invasion/.idea/alien_invasion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../face_recognition1111/.idea/face_recognition1111.iml" filepath="$PROJECT_DIR$/../face_recognition1111/.idea/face_recognition1111.iml" />
+      <module fileurl="file://$USER_HOME$/liaoxuefeng/.idea/liaoxuefeng.iml" filepath="$USER_HOME$/liaoxuefeng/.idea/liaoxuefeng.iml" />
+      <module fileurl="file://$USER_HOME$/meizitu/.idea/meizitu.iml" filepath="$USER_HOME$/meizitu/.idea/meizitu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python3.iml" filepath="$PROJECT_DIR$/.idea/python3.iml" />
+    </modules>
+  </component>
+</project>
